@@ -1,1 +1,1 @@
-# supermarketstocksys
+# Supermarket Stock System
