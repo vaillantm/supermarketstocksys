@@ -1,1 +1,1 @@
-# Supermarket Stock Sys
+# Supermarket Stock System
